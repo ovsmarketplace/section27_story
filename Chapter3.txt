@@ -1,1 +1,2 @@
 Another try to make changes, it is saccecful way to practice typing words.
+It is a practice of using a git branch and merging.
